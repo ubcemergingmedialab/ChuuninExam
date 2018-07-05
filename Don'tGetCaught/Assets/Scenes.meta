@@ -1,7 +1,11 @@
 fileFormatVersion: 2
 guid: 6a10e8880fcb96842b3c2bb0bafda8ad
 folderAsset: yes
+<<<<<<< HEAD
 timeCreated: 1530749690
+=======
+timeCreated: 1530742056
+>>>>>>> devClockBird
 licenseType: Free
 DefaultImporter:
   userData: 
