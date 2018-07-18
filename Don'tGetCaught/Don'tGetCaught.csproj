@@ -51,34 +51,34 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEditor">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Networking">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Timeline">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HoloLens">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
     </Reference>
     <Reference Include="Managed/Mono.Cecil">
-      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data\Managed/Mono.Cecil.dll</HintPath>
+      <HintPath>C:/Unity 2017.1.1/Editor/Data\Managed/Mono.Cecil.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -93,6 +93,7 @@
     <Compile Include="Assets\Models\Penji\living birds\scripts\lb_Bird.cs" />
     <Compile Include="Assets\Models\Penji\living birds\scripts\lb_BirdController.cs" />
     <Compile Include="Assets\Models\Penji\living birds\scripts\lb_CrowProximity.cs" />
+    <Compile Include="Assets\RealisticWoodTextures\0_Demo_Scene\Scripts\SimpleRotate.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -395,6 +396,10 @@
     <Compile Include="Assets\VRTK\SDK\Ximmerse\SDK_XimmerseSystem.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\RealisticWoodTextures\0_1_Documentation\Read_me.txt" />
+    <None Include="Assets\RealisticWoodTextures\0_1_Documentation\Textures_List.txt" />
+    <None Include="Assets\SimpleGridShader\GridShader.shader" />
+    <None Include="Assets\SimpleGridShader\README.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
