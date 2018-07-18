@@ -156,8 +156,6 @@
     <Compile Include="Assets\VRTK\Editor\VRTK_UpdatePrompt.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\RealisticWoodTextures\0_1_Documentation\Read_me.txt" />
-    <None Include="Assets\RealisticWoodTextures\0_1_Documentation\Textures_List.txt" />
     <None Include="Assets\SimpleGridShader\GridShader.shader" />
     <None Include="Assets\SimpleGridShader\README.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
