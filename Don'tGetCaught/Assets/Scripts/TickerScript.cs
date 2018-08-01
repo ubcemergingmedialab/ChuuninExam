@@ -32,6 +32,7 @@ public class TickerScript : MonoBehaviour {
 
     private void HandleChange(object sender, Control3DEventArgs e)
     {
+        Audio_Manager.instance.curFreq = (int)(e.normalizedValue / 100) * Audio_Manager.instance.maxFreq;
         float toMove = diff * (e.normalizedValue/100);
         Vector3 init = ticker.transform.position;
         init.x = MAX_X - toMove;
