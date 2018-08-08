@@ -113,6 +113,9 @@
     <Reference Include="UnityEditor.Android.Extensions">
       <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions">
+      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.WSA.Extensions">
       <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll</HintPath>
     </Reference>
@@ -127,6 +130,12 @@
     </Reference>
     <Reference Include="Managed/Mono.Cecil">
       <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data\Managed/Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>C:/Program Files/Unity 2017.1.1f1/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
