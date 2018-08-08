@@ -4,7 +4,4 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Penji/clockBird.unity
-    guid: 5a1ffb47d0ef8724480efbd7da006157
+  m_Scenes: []
